@@ -69,14 +69,16 @@ const config: Config = {
       },
       items: [
         {
-          href: 'https://discord.gg/xTFEu5Q6q6',
-          label: 'Discord',
-          position: 'right',
+            'aria-label': 'Discord Invite',
+            'className': 'navbar--discord-link',
+            'href': 'https://discord.gg/xTFEu5Q6q6',
+            'position': 'right',
         },
         {
-          href: 'https://github.com/deep-elegant/kavim',
-          label: 'GitHub',
-          position: 'right',
+            'aria-label': 'GitHub Repository',
+            'className': 'navbar--github-link',
+            'href': 'https://github.com/deep-elegant/kavim',
+            'position': 'right',
         },
       ],
     },
