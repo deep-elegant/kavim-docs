@@ -61,11 +61,11 @@ const config: Config = {
       respectPrefersColorScheme: true,
     },
     navbar: {
-      title: 'My Site',
+      title: 'DeepElegant - Kavim',
       logo: {
-        alt: 'My Site Logo',
+        alt: 'DeepElegant - Kavim',
         src: 'img/logo.svg',
-        target: 'docs/intro',
+        target: 'docs/getting-started/introduction',
       },
       items: [
         {
