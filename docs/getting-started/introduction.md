@@ -46,7 +46,6 @@ Getting started is easy — just **download the app** and start brainstorming.
   Available for **Windows**, **macOS**, and **Linux**
 
 ## What’s next
-
-- **New to Kavim?** Start with [Quick Start →](./getting-started/overview)
-- **Want to dive deeper?** Explore [Core Concepts →](./core-concepts)
+- **Having trouble collbrating?** Explore [Remote Collaboration →](./tutorials/remote-collaboration.md)
+- **Having trouble with AI?** Explore [LLM Settings →](./tutorials/llm-settings.md)
 - **Curious about the tech?** Visit [GitHub →](https://github.com/deep-elegant/kavim) or join the [Discord community →](https://discord.com/invite/xTFEu5Q6q6)
