@@ -54,7 +54,7 @@ const config: Config = {
           trackingID: 'G-MEV11014DF',
           anonymizeIP: true,
         },
-      } satisfies Preset.Options,
+      } satisfies Preset.Options
     ],
   ],
 
