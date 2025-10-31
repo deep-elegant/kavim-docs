@@ -44,6 +44,7 @@ Getting started is easy — just **download the app** and start brainstorming.
 
 - **[DeepElegant - Kavim](https://github.com/deep-elegant/kavim/releases)**
   Available for **Windows**, **macOS**, and **Linux**
+  - Need help choosing the right macOS build? Read [Choose the Right macOS Download →](./tutorials/mac-download-guide.md)
 
 ## What’s next
 - **Having trouble collbrating?** Explore [Remote Collaboration →](./tutorials/remote-collaboration.md)
